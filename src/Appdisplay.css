@@ -1,0 +1,18 @@
+.display{
+    background-color:pink;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.delete{
+    color: white;
+    background-color:brown;
+    height:fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: none;
+    border-radius:4px;
+    margin-right: 4px;
+}
